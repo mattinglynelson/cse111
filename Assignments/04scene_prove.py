@@ -1,0 +1,1 @@
+# create_cloud(canvas, min_x_range, min_y_range, max_x_range, max_y_range, num_of_ovals)

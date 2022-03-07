@@ -1,0 +1,5 @@
+Date: 2022-01-14 12:34:28.326185, Width of tire: 205, Aspect Ratio: 60, Diameter: 15, Volume: 39.92449041517438
+Date: 2022-01-14 12:36:28.693341, Customer: Enter first and last name of customer: , Width of tire: 205, Aspect Ratio: 60, Diameter: 15, Volume: 39.92449041517438
+Date: 2022-01-14 12:37:48.280673, Customer: John Johnson, Width of tire: 205, Aspect Ratio: 60, Diameter: 15, Volume: 39.92449041517438
+
+Date: 2022-01-14 12:38:43.106985, Customer: John Johnson, Width of tire: 205, Aspect Ratio: 60, Diameter: 15, Volume: 39.92449041517438
